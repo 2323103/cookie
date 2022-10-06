@@ -1,3 +1,4 @@
+//for testing
 function inf(){return Infinity * Infinity}
 function GetCookies(amt){
     Game.Earn(amt);
